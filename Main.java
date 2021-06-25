@@ -1,0 +1,25 @@
+package n1;
+
+public class Main {
+
+    public static void main(String[] args) {
+        //Criação do primeiro objeto.
+        Pessoa pessoa1 = new Pessoa("Fulano1", 70, 21);
+
+        pessoa1.caminha();
+        pessoa1.come();
+        pessoa1.come();
+        pessoa1.come();
+        pessoa1.come();
+        pessoa1.fazAniversario();
+        pessoa1.imprime();
+        
+        //Criação do segundo objeto.
+        Pessoa pessoa2 = new Pessoa("Fulano2", 80, 22);
+
+        pessoa2.come();
+        pessoa2.come();
+        pessoa2.fazAniversario();
+        pessoa2.imprime();
+    }
+}
