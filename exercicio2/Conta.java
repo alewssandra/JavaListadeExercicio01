@@ -1,4 +1,4 @@
-package n2;
+package exercicio2;
 
 public class Conta {
    
