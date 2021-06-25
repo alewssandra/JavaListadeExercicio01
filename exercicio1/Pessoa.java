@@ -1,4 +1,4 @@
-package n1;
+package exercicio1;
 
 public class Pessoa {
     //Atributos
