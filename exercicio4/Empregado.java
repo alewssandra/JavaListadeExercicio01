@@ -1,4 +1,4 @@
-package n4;
+package exercicio4;
 
 public class Empregado {
 
